@@ -1,0 +1,6 @@
+c:\users\poonam.kalra\documents\visual studio 2012\Projects\Patterns\Patterns\bin\Debug\Patterns.exe.config
+c:\users\poonam.kalra\documents\visual studio 2012\Projects\Patterns\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+c:\users\poonam.kalra\documents\visual studio 2012\Projects\Patterns\Patterns\bin\Debug\Patterns.exe
+c:\users\poonam.kalra\documents\visual studio 2012\Projects\Patterns\Patterns\bin\Debug\Patterns.pdb
+c:\users\poonam.kalra\documents\visual studio 2012\Projects\Patterns\Patterns\obj\Debug\Patterns.exe
+c:\users\poonam.kalra\documents\visual studio 2012\Projects\Patterns\Patterns\obj\Debug\Patterns.pdb
